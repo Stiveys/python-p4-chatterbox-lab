@@ -55,3 +55,4 @@ function Message({ message, currentUser, onMessageDelete, onUpdateMessage }) {
 }
 
 export default Message;
+
